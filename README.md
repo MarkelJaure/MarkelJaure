@@ -4,7 +4,11 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/MarkelJaure/MarkelJaure/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MarkelJaure/MarkelJaure/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MarkelJaure/MarkelJaure/blob/output/github-contribution-grid-snake.svg">
+   <img src="https://github.com/MarkelJaure/MarkelJaure/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
 </div>
 
 ###
